@@ -13,6 +13,9 @@ Write-Host "-------> Installing development tools..."
 # VS, VSCode, Postman, Git, Node
 # choco install ditto
 # choco install greenshot
+# choco install microsoft-windows-terminal -y
+# choco install oh-my-posh
+
 
 Write-Host "-------> Installing productivity tools..."
 # Chrome, Notion, AdobeReader, DittoClipboard, greenshot
